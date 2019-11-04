@@ -38,6 +38,7 @@ final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
         "Aurelio",
+        "CMEPPS",
         "abstraction",
         "ambiguous",
         "arithmetic",
